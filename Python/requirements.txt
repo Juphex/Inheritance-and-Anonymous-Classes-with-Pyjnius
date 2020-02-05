@@ -1,0 +1,3 @@
+jnius
+android
+p4a #(python-for-android)
