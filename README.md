@@ -25,7 +25,7 @@ public class MyWebViewClient extends WebViewClient {
     }
 }
 ```
-Refereced Library: android.jar (Android\Sdk\platforms\android-27\android.jar)
+Referenced Library: android.jar (Android\Sdk\platforms\android-27\android.jar)
 
 One can then use the (anonymous-)classes in the generated .jar of the Java project within Python using jnius.
 ```Python
